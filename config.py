@@ -11,7 +11,7 @@ MONGO_URL = getenv("MONGO_URL", "mongodb+srv://khushijha5544:karan2020@krishnauf
 SUPPORT_GRP = getenv("SUPPORT_GRP", "MeetupZone_Chatting")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "ab_krishna_uff")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "introvertt_i")
-OWNER_ID = getenv("OWNER_ID=", "5605603670")
+OWNER_ID = getenv("OWNER_ID", "5605603670")
 
 # Random Start Images
 IMG = [
