@@ -4,13 +4,13 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 5605603670))
+API_ID = int(getenv("API_ID", 26136332))
 API_HASH = getenv("API_HASH", "ec5793b4bef624381b19ad2b6fd082f8")
 STRING_SESSION = getenv("STRING_SESSION", "BQGOzwwAPv4Dip8RINn04lsd0qfQhCemQHTvcmdVOIFYvP3VOsiz5vDpIajbzOGZcHtWjDI5zaQvlRznO1Azcs5-zf1_4z4fxQly4OT8l0Gy72OXXfLtYaacnkpW-yOWHvjJzlBDF9E2SKJW5EtNcqyOHEvAamNcbslpBMkAvPyDwcmbpq_c0ve5tlyeoMTkJsmn0WiyOmkRdygvOj27slLWhjbIOTJuuIabDv3RuQ5uvorf6_ZxBto1o1boer__nGhPSEkn7NavTHobOyAa4Oup1XAR7puOEmYKSwMGhbSbapGj1ypVbYxRPmD1w_mowgKzSavwWCbIiT-UA2snruqwNB6e3AAAAAGQYVvxAA")
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://khushijha5544:karan2020@krishnauff.ndruqrp.mongodb.net/?retryWrites=true&w=majority")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "MeetupZone_Chatting")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "ab_krishna_uff")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "its_ur_dev")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "introvertt_i")
 
 # Random Start Images
 IMG = [
