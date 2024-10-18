@@ -4,10 +4,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 24280518))
+API_ID = int(getenv("API_ID", 5605603670))
 API_HASH = getenv("API_HASH", "ec5793b4bef624381b19ad2b6fd082f8")
-STRING_SESSION = getenv("STRING_SESSION", "BQEksaEAafMD0FkJU2lxmHIaIKiwaxe3VkQP6wnn21j3T0Cbk_eFfr1qErLxKbiH4CWzeMDYbYDXOQRE_p7qm23ku7Mi4XdIlk51GNAEhDWvHMDVIKD6JTthiGOjNfYi8YZr_2tYe0o9COtKjPf_XbL-uk1zsuugKu0M-8IF1iuAKiIx0SHzzDKYlrOPlPHYsdUN2VatnwQMf2XmND0dATykaeKb6ugnd0BItjC_TFYCn09yYw-vb7c6A4nQVaqiAPfe2V-sSP_coM5IfRGoAmLJtT0dgdkMhsEXuUzSQFc2kGYhgEq8hAc9DsGksAveBFB00CljmiBMy-qRetp1lSY3NeDCsAAAAAGBbrZVAA")
-OWNER_ID = int(getenv("OWNER_ID", "6356488333"))
+STRING_SESSION = getenv("STRING_SESSION", "BQGOzwwAPv4Dip8RINn04lsd0qfQhCemQHTvcmdVOIFYvP3VOsiz5vDpIajbzOGZcHtWjDI5zaQvlRznO1Azcs5-zf1_4z4fxQly4OT8l0Gy72OXXfLtYaacnkpW-yOWHvjJzlBDF9E2SKJW5EtNcqyOHEvAamNcbslpBMkAvPyDwcmbpq_c0ve5tlyeoMTkJsmn0WiyOmkRdygvOj27slLWhjbIOTJuuIabDv3RuQ5uvorf6_ZxBto1o1boer__nGhPSEkn7NavTHobOyAa4Oup1XAR7puOEmYKSwMGhbSbapGj1ypVbYxRPmD1w_mowgKzSavwWCbIiT-UA2snruqwNB6e3AAAAAGQYVvxAA")
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://khushijha5544:karan2020@krishnauff.ndruqrp.mongodb.net/?retryWrites=true&w=majority")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "MeetupZone_Chatting")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "ab_krishna_uff")
